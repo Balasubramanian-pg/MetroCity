@@ -6,12 +6,12 @@
     },
     {
         "source_url": "refs/heads/main/Reviews/social_media.json",
-        "sink_folder": "Social_Media",
+        "sink_folder": "Reviews",
         "sink_file": "SocialMedia.json"
     },
     {
         "source_url": "refs/heads/main/Reviews/web_logs.json",
-        "sink_folder": "Weblogs",
+        "sink_folder": "Reviews",
         "sink_file": "WebLogs.json"
     }
 ]
