@@ -1,16 +1,16 @@
 [
     {
-        "source_url": "Orders_Data.csv",
+        "source_url": "refs/heads/main/Demograph-Data/Orders_Data.csv",
         "sink_folder": "MetroCity_Orders",
         "sink_file": "Orders.csv"
     },
     {
-        "source_url": "customers.csv",
+        "source_url": "refs/heads/main/Demograph-Data/customers.csv",
         "sink_folder": "MetroCity_Customers",
         "sink_file": "Customers.csv"
     },
     {
-        "source_url": "products.csv",
+        "source_url": "refs/heads/main/Demograph-Data/products.csv",
         "sink_folder": "MetroCity_Products",
         "sink_file": "Products.csv"
     }
