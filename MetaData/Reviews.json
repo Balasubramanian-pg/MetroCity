@@ -1,17 +1,17 @@
 [
     {
-        "source_url": "https://raw.githubusercontent.com/Balasubramanian-pg/MetroCity/main/Reviews/reviews.json",
-        "sink_folder": "ShoppingMart_Bronze_Reviews",
+        "source_url": "refs/heads/main/Reviews/reviews.json",
+        "sink_folder": "Reviews",
         "sink_file": "Reviews.json"
     },
     {
-        "source_url": "https://raw.githubusercontent.com/Balasubramanian-pg/MetroCity/main/Reviews/social_media.json",
-        "sink_folder": "ShoppingMart_Bronze_Social_Media",
+        "source_url": "refs/heads/main/Reviews/social_media.json",
+        "sink_folder": "Social Media",
         "sink_file": "SocialMedia.json"
     },
     {
-        "source_url": "https://raw.githubusercontent.com/Balasubramanian-pg/MetroCity/main/Reviews/web_logs.json",
-        "sink_folder": "ShoppingMart_Bronze_Web_Logs",
+        "source_url": "refs/heads/main/Reviews/web_logs.json",
+        "sink_folder": "Weblogs",
         "sink_file": "WebLogs.json"
     }
 ]
