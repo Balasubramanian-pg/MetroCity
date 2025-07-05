@@ -1,10 +1,6 @@
-Of course. Here is a more professional and structured documentation of the data assets used in the project. This format is clearer and better suited for project documentation.
-
-***
-
 ### **Project Data Asset Overview**
 
-The "Shopping Mart" end-to-end project integrates both structured and unstructured data to provide a comprehensive 360-degree view of the business. These assets are ingested into the Bronze layer, refined in the Silver layer, and aggregated for business intelligence in the Gold layer.
+The "MetroCity" end-to-end project integrates both structured and unstructured data to provide a comprehensive 360-degree view of the business. These assets are ingested into the Bronze layer, refined in the Silver layer, and aggregated for business intelligence in the Gold layer.
 
 ---
 
