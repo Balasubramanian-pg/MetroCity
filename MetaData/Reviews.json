@@ -6,7 +6,7 @@
     },
     {
         "source_url": "refs/heads/main/Reviews/social_media.json",
-        "sink_folder": "Social Media",
+        "sink_folder": "Social_Media",
         "sink_file": "SocialMedia.json"
     },
     {
